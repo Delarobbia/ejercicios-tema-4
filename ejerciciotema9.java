@@ -17,7 +17,7 @@ public class ejerciciotema9 {
         System.out.println("Su nombre es:"+trabajador.getNombre());
         System.out.println("Su edad es:"+trabajador.getEdad());
         System.out.println("Su Telefono es:"+trabajador.getTelefono());
-        System.out.println("Su salario es de:"+trabajador.getTelefono()+" euros");
+        System.out.println("Su salario es de:"+trabajador.getSalario()+" euros");
 
 
     }
